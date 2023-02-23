@@ -1,0 +1,1 @@
+{"name":"CatRom","className":"ModuleScript","filePaths":["src\\init.lua","default.project.json"],"children":[{"name":"GaussLegendre","className":"ModuleScript","filePaths":["src\\GaussLegendre.lua"]},{"name":"Spline","className":"ModuleScript","filePaths":["src\\Spline.lua"]},{"name":"Squad","className":"ModuleScript","filePaths":["src\\Squad.lua"]}]}
